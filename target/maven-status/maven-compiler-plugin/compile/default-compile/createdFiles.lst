@@ -1,0 +1,17 @@
+com/example/soccer/Main.class
+com/example/soccer/feature/FeatureBuilder.class
+com/example/soccer/db/MatchRepository$TeamFormWindow.class
+com/example/soccer/model/ClassificationMetrics.class
+com/example/soccer/db/MatchRepository$MatchResult.class
+com/example/soccer/db/SQLiteConnectionFactory.class
+com/example/soccer/model/ModelTrainer.class
+com/example/soccer/feature/FeatureNormalizer.class
+com/example/soccer/reporting/MetricsExporter.class
+com/example/soccer/Config.class
+com/example/soccer/model/TrainedModel.class
+com/example/soccer/weka/ArffExporter.class
+com/example/soccer/db/MatchRecord.class
+com/example/soccer/feature/FeatureNormalizer$MinMax.class
+com/example/soccer/weka/WekaRunner.class
+com/example/soccer/sequence/SequenceMiner.class
+com/example/soccer/db/MatchRepository.class
